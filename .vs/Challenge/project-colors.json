@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a220894-0fa9-4614-9f78-e63e48aefb91": {
+      "ProjectGuid": "6a220894-0fa9-4614-9f78-e63e48aefb91",
+      "DisplayName": "Challenge.UI",
+      "ColorIndex": 0
+    },
+    "314c0651-daf7-4de7-83f9-acf4c4d3cc7e": {
+      "ProjectGuid": "314c0651-daf7-4de7-83f9-acf4c4d3cc7e",
+      "DisplayName": "Challenge.Domain",
+      "ColorIndex": 1
+    },
+    "cb9c7583-e8d5-46de-8244-ea79985b05d3": {
+      "ProjectGuid": "cb9c7583-e8d5-46de-8244-ea79985b05d3",
+      "DisplayName": "Challenge.Domain.Core",
+      "ColorIndex": 2
+    },
+    "27d75bf1-a550-4152-9015-1341a1781bc3": {
+      "ProjectGuid": "27d75bf1-a550-4152-9015-1341a1781bc3",
+      "DisplayName": "Challenge.Application",
+      "ColorIndex": 3
+    },
+    "a7b02a5b-2bb9-43e0-be0e-7dd3f0eaf10b": {
+      "ProjectGuid": "a7b02a5b-2bb9-43e0-be0e-7dd3f0eaf10b",
+      "DisplayName": "Challenge.Persistencia",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}
