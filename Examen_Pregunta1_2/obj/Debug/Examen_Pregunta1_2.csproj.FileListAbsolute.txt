@@ -1,0 +1,5 @@
+D:\challengetest\challenge\Examen_Pregunta1_2\bin\Debug\Examen_Pregunta1_2.dll
+D:\challengetest\challenge\Examen_Pregunta1_2\bin\Debug\Examen_Pregunta1_2.pdb
+D:\challengetest\challenge\Examen_Pregunta1_2\obj\Debug\Examen_Pregunta1_2.csproj.CoreCompileInputs.cache
+D:\challengetest\challenge\Examen_Pregunta1_2\obj\Debug\Examen_Pregunta1_2.dll
+D:\challengetest\challenge\Examen_Pregunta1_2\obj\Debug\Examen_Pregunta1_2.pdb

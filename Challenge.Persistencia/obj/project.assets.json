@@ -5407,11 +5407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj",
+      "projectUniqueName": "D:\\challengetest\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj",
       "projectName": "Challenge.Persistencia",
-      "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj",
+      "projectPath": "D:\\challengetest\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj",
       "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Persistencia\\obj\\",
+      "outputPath": "D:\\challengetest\\challenge\\Challenge.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5431,8 +5431,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
-              "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj"
+            "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+              "projectPath": "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj"
             }
           }
         }

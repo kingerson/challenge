@@ -11,3 +11,16 @@ C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Application\obj\De
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Domain.dll
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Domain.pdb
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.csproj.CopyComplete
+D:\challengetest\challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Application.deps.json
+D:\challengetest\challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Application.dll
+D:\challengetest\challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Application.pdb
+D:\challengetest\challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Domain.dll
+D:\challengetest\challenge\Challenge.Application\bin\Debug\netcoreapp3.1\Challenge.Domain.pdb
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.csproj.AssemblyReference.cache
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.AssemblyInfoInputs.cache
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.AssemblyInfo.cs
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.csproj.CoreCompileInputs.cache
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.csproj.CopyComplete
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.dll
+D:\challengetest\challenge\Challenge.Application\obj\Debug\netcoreapp3.1\Challenge.Application.pdb

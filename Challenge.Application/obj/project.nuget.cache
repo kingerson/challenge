@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UKrbLsUGepHEUn5TejqKVlvR0c3AWlc40+yetVbO+wYQPl53ryIwlOpAv9/+mTDlnt+tUXxpOebV/yJ/IBPq9g==",
+  "dgSpecHash": "c75SI7qoaQyTFBKVP3iOKQBsFTQPJhtxwu5a/fr0MzNQVZbGqAgJwU2cc9Pqdc6SJ3DFjj0C312NSNsQ/lR8dQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj",
+  "projectFilePath": "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gerson Navarro\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Gerson Navarro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj": {}
+    "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj": {
+    "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj",
+        "projectUniqueName": "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj",
         "projectName": "Challenge.Application",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj",
+        "projectPath": "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj",
         "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\obj\\",
+        "outputPath": "D:\\challengetest\\challenge\\Challenge.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
-                "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj"
+              "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+                "projectPath": "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj"
               }
             }
           }
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
+    "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+        "projectUniqueName": "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
         "projectName": "Challenge.Domain",
-        "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+        "projectPath": "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
         "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\obj\\",
+        "outputPath": "D:\\challengetest\\challenge\\Challenge.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

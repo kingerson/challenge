@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+      "projectUniqueName": "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
       "projectName": "Challenge.Domain",
-      "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
+      "projectPath": "D:\\challengetest\\challenge\\Challenge.Domain\\Challenge.Domain.csproj",
       "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Domain\\obj\\",
+      "outputPath": "D:\\challengetest\\challenge\\Challenge.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,3 +8,12 @@ C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Domain\obj\Debug\n
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.csproj.CoreCompileInputs.cache
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.dll
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.pdb
+D:\challengetest\challenge\Challenge.Domain\bin\Debug\netcoreapp3.1\Challenge.Domain.deps.json
+D:\challengetest\challenge\Challenge.Domain\bin\Debug\netcoreapp3.1\Challenge.Domain.dll
+D:\challengetest\challenge\Challenge.Domain\bin\Debug\netcoreapp3.1\Challenge.Domain.pdb
+D:\challengetest\challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\challengetest\challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.AssemblyInfoInputs.cache
+D:\challengetest\challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.AssemblyInfo.cs
+D:\challengetest\challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.csproj.CoreCompileInputs.cache
+D:\challengetest\challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.dll
+D:\challengetest\challenge\Challenge.Domain\obj\Debug\netcoreapp3.1\Challenge.Domain.pdb

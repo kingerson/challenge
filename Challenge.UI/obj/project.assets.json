@@ -5537,11 +5537,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.UI\\Challenge.UI.csproj",
+      "projectUniqueName": "D:\\challengetest\\challenge\\Challenge.UI\\Challenge.UI.csproj",
       "projectName": "Challenge.UI",
-      "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.UI\\Challenge.UI.csproj",
+      "projectPath": "D:\\challengetest\\challenge\\Challenge.UI\\Challenge.UI.csproj",
       "packagesPath": "C:\\Users\\Gerson Navarro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.UI\\obj\\",
+      "outputPath": "D:\\challengetest\\challenge\\Challenge.UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5561,11 +5561,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj": {
-              "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Application\\Challenge.Application.csproj"
+            "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj": {
+              "projectPath": "D:\\challengetest\\challenge\\Challenge.Application\\Challenge.Application.csproj"
             },
-            "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj"
+            "D:\\challengetest\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj": {
+              "projectPath": "D:\\challengetest\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj"
             }
           }
         }

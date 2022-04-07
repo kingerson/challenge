@@ -11,3 +11,16 @@ C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Persistencia\bin\D
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.csproj.CopyComplete
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.dll
 C:\Users\Gerson Navarro\Desktop\Challenge\Challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.pdb
+D:\challengetest\challenge\Challenge.Persistencia\bin\Debug\netcoreapp3.1\Challenge.Persistencia.deps.json
+D:\challengetest\challenge\Challenge.Persistencia\bin\Debug\netcoreapp3.1\Challenge.Persistencia.dll
+D:\challengetest\challenge\Challenge.Persistencia\bin\Debug\netcoreapp3.1\Challenge.Persistencia.pdb
+D:\challengetest\challenge\Challenge.Persistencia\bin\Debug\netcoreapp3.1\Challenge.Domain.dll
+D:\challengetest\challenge\Challenge.Persistencia\bin\Debug\netcoreapp3.1\Challenge.Domain.pdb
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.csproj.AssemblyReference.cache
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.AssemblyInfoInputs.cache
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.AssemblyInfo.cs
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.csproj.CoreCompileInputs.cache
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.csproj.CopyComplete
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.dll
+D:\challengetest\challenge\Challenge.Persistencia\obj\Debug\netcoreapp3.1\Challenge.Persistencia.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cjCtNiE42b/Uf0Ja+zlXZFmKOaSM32V3/JrNxwTA/L1Wk8W7q6e9fLO4C/oD+ewU7eOZOu68NUadrJVjg1jHeg==",
+  "dgSpecHash": "8o4esTQhlKI8Vv1DqYP704a3foOUFQSMT3p37RwL94ztGIN0DHUnyaBZC6qpQwJmwXb5sViEE3J8RbL1JsrWsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gerson Navarro\\Desktop\\ChallengeGit\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj",
+  "projectFilePath": "D:\\challengetest\\challenge\\Challenge.Persistencia\\Challenge.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gerson Navarro\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
     "C:\\Users\\Gerson Navarro\\.nuget\\packages\\microsoft.entityframeworkcore\\2.0.3\\microsoft.entityframeworkcore.2.0.3.nupkg.sha512",

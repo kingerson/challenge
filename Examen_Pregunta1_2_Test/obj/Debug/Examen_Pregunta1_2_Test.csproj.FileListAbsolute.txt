@@ -1,0 +1,17 @@
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Examen_Pregunta1_2_Test.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Examen_Pregunta1_2_Test.pdb
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Examen_Pregunta1_2.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Examen_Pregunta1_2.pdb
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\obj\Debug\Examen_Pregunta1_2_Test.csproj.AssemblyReference.cache
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\obj\Debug\Examen_Pregunta1_2_Test.csproj.CoreCompileInputs.cache
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\obj\Debug\Examen_Pregunta1_2_Test.csproj.CopyComplete
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\obj\Debug\Examen_Pregunta1_2_Test.dll
+D:\challengetest\challenge\Examen_Pregunta1_2_Test\obj\Debug\Examen_Pregunta1_2_Test.pdb
